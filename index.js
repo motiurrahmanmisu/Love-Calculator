@@ -1,4 +1,3 @@
-
 var random=Math.floor(Math.random() * 100 + 1);
 document.querySelector("#click").addEventListener("click",function(){
 	var text1=document.querySelector("#text");
